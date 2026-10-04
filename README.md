@@ -6,6 +6,13 @@
 
 <h3>Intelligent systems, built to hold up.</h3>
 
+<a href="https://connective.my/#services">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;size=22&amp;duration=2600&amp;pause=1400&amp;color=D4D4D8&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=44&amp;lines=Web+%26+SaaS+Development;AI+Engineering;Harness+Engineering;Social+Media+Production">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&amp;size=22&amp;duration=2600&amp;pause=1400&amp;color=52525B&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=44&amp;lines=Web+%26+SaaS+Development;AI+Engineering;Harness+Engineering;Social+Media+Production" alt="Web and SaaS development · AI engineering · Harness engineering · Social media production" width="620" height="44">
+  </picture>
+</a>
+
 <p>Digital products, AI systems, and content.<br>From the first architectural decision to the infrastructure that keeps them running.</p>
 
 <p>
@@ -17,6 +24,8 @@
 <br>
 
 <p>
+  <a href="#tools">Tools</a>
+  &nbsp;·&nbsp;
   <a href="#services">Services</a>
   &nbsp;·&nbsp;
   <a href="#selected-work">Work</a>
@@ -47,6 +56,29 @@ Our work brings together product architecture, user experience, software, and pr
   &nbsp;·&nbsp;
   <strong>Building since 2019</strong>
 </p>
+
+## Tools
+
+Selected technologies behind our published web and e-commerce projects. Select an icon to explore the tool.
+
+<p align="center">
+  <a href="https://nextjs.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/D4D4D8">
+      <img src="https://cdn.simpleicons.org/nextdotjs/18181B" alt="Next.js" title="Next.js" width="44" height="44">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/">
+    <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.shopify.com/">
+    <img src="https://cdn.simpleicons.org/shopify/95BF47" alt="Shopify" title="Shopify" width="44" height="44">
+  </a>
+</p>
+
+<p align="center"><sub>Next.js &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Shopify</sub></p>
 
 ## Services
 
@@ -174,6 +206,15 @@ Every engagement starts with your needs. Packages can be combined, adjusted, or 
 
 ## Our Process
 
+<p align="center">
+  <a href="https://connective.my/#process">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;size=18&amp;duration=3200&amp;pause=1800&amp;color=A1A1AA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=38&amp;lines=Discover.;Discover.+Design.;Discover.+Design.+Build.;Discover.+Design.+Build.+Launch.">
+      <img src="https://readme-typing-svg.demolab.com/?font=Inter&amp;size=18&amp;duration=3200&amp;pause=1800&amp;color=52525B&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=38&amp;lines=Discover.;Discover.+Design.;Discover.+Design.+Build.;Discover.+Design.+Build.+Launch." alt="Our process: Discover, Design, Build, Launch" width="620" height="38">
+    </picture>
+  </a>
+</p>
+
 1. **Discover** — Understand the problem, users, constraints, requirements, and measures of success.
 2. **Design** — Shape the architecture and user experience together, with a clear technical plan.
 3. **Build** — Deliver working software in short cycles, with regular progress, testing, and integrations.
@@ -207,6 +248,23 @@ Have a problem worth solving? Tell us what you are building.
 <div align="center">
 
 <p><strong>The Connective</strong><br><sub>Digital products, AI systems, and content.</sub></p>
+
+<p>
+  <a href="https://www.linkedin.com/company/connectivesquad/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Follow The Connective on LinkedIn" width="32" height="32">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/connectivesquad">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Follow The Connective on Instagram" width="32" height="32">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/connective-my">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark">
+      <img src="https://skillicons.dev/icons?i=github&amp;theme=light" alt="The Connective on GitHub" width="32" height="32">
+    </picture>
+  </a>
+</p>
 
 <p>
   <a href="https://connective.my/">Website</a>
